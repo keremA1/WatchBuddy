@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "93846200232",
+    "project_id": "auth-c926f",
+    "storage_bucket": "auth-c926f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93846200232:android:61d14e4cedfb61f6fd079d",
+        "android_client_info": {
+          "package_name": "com.example.kerem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93846200232-u2qgn60puna3q4c9uk9oug9pd0jaqv6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kerem",
+            "certificate_hash": "052369b7ca4a3d57796b2acf2dac05297a62b144"
+          }
+        },
+        {
+          "client_id": "93846200232-lrqgfktk13tbl9dmpi986c3ddo1dimef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjfTvc6O-1GLe57H7F4kzxToaUchlb3rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93846200232-lrqgfktk13tbl9dmpi986c3ddo1dimef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
